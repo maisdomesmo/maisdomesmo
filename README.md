@@ -1,2 +1,2 @@
-# 👋 Hello! Welcome to my Github profile.
-## My name is João Pedro!
+# Olá, me chamo João Pedro! 
+## Bem vindo ao meu perfil GitHub 👋
