@@ -1,4 +1,5 @@
-# Olá, me chamo João Pedro! 
+<div>
+  # Olá, me chamo João Pedro! 
 ## Bem vindo ao meu perfil GitHub 👋
 
 ## O que eu já usei
@@ -21,7 +22,7 @@
 ## Ferramentas 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="40" />
-
+</div>
 
 
 
